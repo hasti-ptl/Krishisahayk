@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of KrishiSahayak",
+  "description": "A voice-enabled farm helper for Indian farmers to manage crops, finances, and weather alerts in Hindi/Marathi.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
